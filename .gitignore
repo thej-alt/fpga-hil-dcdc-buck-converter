@@ -1,0 +1,55 @@
+# ===========================
+# Vivado
+# ===========================
+
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.cache
+*.Xil
+
+# Vivado generated folders
+**/.Xil/
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.sim/
+
+# Temporary files
+*.tmp
+*.bak
+
+# ===========================
+# MATLAB / Simulink
+# ===========================
+
+slprj/
+*.autosave
+*.asv
+*.m~
+*.mex*
+*.p
+*.slxc
+
+# ===========================
+# Operating System
+# ===========================
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ===========================
+# VS Code
+# ===========================
+
+.vscode/
+
+# ===========================
+# Git
+# ===========================
+
+*.orig
