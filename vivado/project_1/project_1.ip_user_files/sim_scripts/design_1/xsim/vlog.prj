@@ -1,0 +1,26 @@
+verilog xil_defaultlib --include "D:/xilinx_vivado_2024_a/Vivado/2024.1/data/xilinx_vip/include" --include "../../../../project_1.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../project_1.gen/sources_1/bd/design_1/ipshared/b28c/hdl" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip_addr_decoder.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip_axi_lite.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip_axi_lite_module.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip_dut.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip_reset_sync.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip_src_controller.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/6fc0/hdl/controller_ip.v" \
+"../../../bd/design_1/ip/design_1_controller_ip_0_0/sim/design_1_controller_ip_0_0.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip_addr_decoder.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip_axi_lite.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip_axi_lite_module.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip_dut.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip_reset_sync.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip_src_pwm.v" \
+"../../../../project_1.gen/sources_1/bd/design_1/ipshared/699c/hdl/pwm_ip.v" \
+"../../../bd/design_1/ip/design_1_pwm_ip_0_0/sim/design_1_pwm_ip_0_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
